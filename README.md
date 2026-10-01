@@ -1,2 +1,2 @@
 # design-system
-Gedeelde zaken voor Rotterdam Design System aka RODS 
+Project management voor het Rotterdam Design System (RoDS).
